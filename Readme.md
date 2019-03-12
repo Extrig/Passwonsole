@@ -5,7 +5,7 @@ Can generate new password for you.
 ## Using
 ```
 gen 
-#simple password (default 8 charactres)
+#simple password (default 8 characters)
 
 gen 10
 #10 character in password
